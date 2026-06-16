@@ -1,0 +1,6 @@
+C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir
+C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/install/local.dir

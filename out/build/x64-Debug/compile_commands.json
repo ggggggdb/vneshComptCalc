@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DADDINCPP_EXPORTS -DAddInNative_EXPORTS -DUNICODE -DWIN32 -D_CRT_SECURE_NO_DEPRECATE -D_CRT_SECURE_NO_WARNINGS -D_USRDLL -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\include -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\out\\build\\x64-Debug /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /YcC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FpC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/.//cmake_pch.cxx.pch /FIC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FoCMakeFiles\\AddInNative.dir\\cmake_pch.cxx.obj /FdCMakeFiles\\AddInNative.dir\\ /FS -c C:\\Users\\gener\\source\\repos\\1c-native-component-template\\out\\build\\x64-Debug\\CMakeFiles\\AddInNative.dir\\cmake_pch.cxx",
+  "file": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.cxx",
+  "output": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.cxx.obj"
+},
+{
+  "directory": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DADDINCPP_EXPORTS -DAddInNative_EXPORTS -DUNICODE -DWIN32 -D_CRT_SECURE_NO_DEPRECATE -D_CRT_SECURE_NO_WARNINGS -D_USRDLL -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\include -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\out\\build\\x64-Debug /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /YuC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FpC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/.//cmake_pch.cxx.pch /FIC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FoCMakeFiles\\AddInNative.dir\\src\\AddInNative.cpp.obj /FdCMakeFiles\\AddInNative.dir\\ /FS -c C:\\Users\\gener\\source\\repos\\1c-native-component-template\\src\\AddInNative.cpp",
+  "file": "C:/Users/gener/source/repos/1c-native-component-template/src/AddInNative.cpp",
+  "output": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/src/AddInNative.cpp.obj"
+},
+{
+  "directory": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DADDINCPP_EXPORTS -DAddInNative_EXPORTS -DUNICODE -DWIN32 -D_CRT_SECURE_NO_DEPRECATE -D_CRT_SECURE_NO_WARNINGS -D_USRDLL -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\include -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\out\\build\\x64-Debug /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /YuC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FpC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/.//cmake_pch.cxx.pch /FIC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FoCMakeFiles\\AddInNative.dir\\src\\dllmain.cpp.obj /FdCMakeFiles\\AddInNative.dir\\ /FS -c C:\\Users\\gener\\source\\repos\\1c-native-component-template\\src\\dllmain.cpp",
+  "file": "C:/Users/gener/source/repos/1c-native-component-template/src/dllmain.cpp",
+  "output": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/src/dllmain.cpp.obj"
+},
+{
+  "directory": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DADDINCPP_EXPORTS -DAddInNative_EXPORTS -DUNICODE -DWIN32 -D_CRT_SECURE_NO_DEPRECATE -D_CRT_SECURE_NO_WARNINGS -D_USRDLL -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\include -IC:\\Users\\gener\\source\\repos\\1c-native-component-template\\out\\build\\x64-Debug /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /YuC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FpC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/.//cmake_pch.cxx.pch /FIC:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/cmake_pch.hxx /FoCMakeFiles\\AddInNative.dir\\src\\stdafx.cpp.obj /FdCMakeFiles\\AddInNative.dir\\ /FS -c C:\\Users\\gener\\source\\repos\\1c-native-component-template\\src\\stdafx.cpp",
+  "file": "C:/Users/gener/source/repos/1c-native-component-template/src/stdafx.cpp",
+  "output": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/src/stdafx.cpp.obj"
+},
+{
+  "directory": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe -DADDINCPP_EXPORTS -DAddInNative_EXPORTS -DUNICODE -DWIN32 -D_CRT_SECURE_NO_DEPRECATE -D_CRT_SECURE_NO_WARNINGS -D_USRDLL -I C:\\Users\\gener\\source\\repos\\1c-native-component-template\\include -I C:\\Users\\gener\\source\\repos\\1c-native-component-template\\out\\build\\x64-Debug -DWIN32 -D_DEBUG /fo CMakeFiles\\AddInNative.dir\\src\\AddInNative.rc.res C:\\Users\\gener\\source\\repos\\1c-native-component-template\\src\\AddInNative.rc",
+  "file": "C:/Users/gener/source/repos/1c-native-component-template/src/AddInNative.rc",
+  "output": "C:/Users/gener/source/repos/1c-native-component-template/out/build/x64-Debug/CMakeFiles/AddInNative.dir/src/AddInNative.rc.res"
+}
+]
